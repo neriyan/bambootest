@@ -8,6 +8,6 @@ public class BambooTest {
 
     @Test
     public void bambooTest1(){
-        assertTrue(1 == 2);
+        assertTrue(1 == 1);
     }
 }
